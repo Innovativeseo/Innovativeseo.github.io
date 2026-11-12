@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pallavi Chaudhary | SEO & Digital Marketing Specialist</title>
+<meta name="description" content="Pallavi Chaudhary is an SEO and digital marketing specialist offering SEO, social media marketing, PPC, Meta ads, local SEO, AEO and GEO services.">
+<style>
+  :root{--bg:#0f172a;--card:#1e293b;--text:#e2e8f0;--muted:#94a3b8;--accent:#38bdf8;--accent2:#818cf8}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+  a{color:var(--accent);text-decoration:none}
+  .wrap{max-width:1050px;margin:0 auto;padding:0 20px}
+  nav{position:sticky;top:0;background:rgba(15,23,42,.92);backdrop-filter:blur(8px);border-bottom:1px solid #243049;z-index:10}
+  nav .wrap{display:flex;justify-content:space-between;align-items:center;height:60px}
+  nav .logo{font-weight:700;font-size:18px;color:#fff}
+  nav ul{display:flex;gap:22px;list-style:none;font-size:15px}
+  nav ul a{color:var(--muted)} nav ul a:hover{color:#fff}
+  .hero{padding:90px 0 70px;text-align:left}
+  .tag{display:inline-block;background:#172554;color:var(--accent);padding:5px 14px;border-radius:20px;font-size:13px;margin-bottom:18px}
+  h1{font-size:clamp(34px,6vw,56px);line-height:1.15;margin-bottom:18px;color:#fff}
+  h1 span{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero p{color:var(--muted);font-size:18px;max-width:620px;margin-bottom:28px}
+  .btn{display:inline-block;padding:12px 26px;border-radius:8px;font-weight:600;margin-right:10px;margin-bottom:10px}
+  .btn.primary{background:linear-gradient(90deg,var(--accent),var(--accent2));color:#0f172a}
+  .btn.ghost{border:1px solid #334155;color:var(--text)}
+  section{padding:60px 0}
+  h2{font-size:30px;margin-bottom:8px;color:#fff}
+  .sub{color:var(--muted);margin-bottom:34px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px}
+  .card{background:var(--card);border:1px solid #2a3750;border-radius:12px;padding:24px;transition:.2s}
+  .card:hover{transform:translateY(-4px);border-color:var(--accent)}
+  .card h3{font-size:18px;margin-bottom:8px;color:#fff}
+  .card p{color:var(--muted);font-size:15px}
+  .about{display:grid;grid-template-columns:1.3fr 1fr;gap:34px;align-items:start}
+  .about p{color:var(--muted);margin-bottom:14px}
+  .facts{background:var(--card);border-radius:12px;padding:24px;border:1px solid #2a3750}
+  .facts li{list-style:none;padding:9px 0;border-bottom:1px solid #2a3750;color:var(--muted);font-size:15px}
+  .facts li:last-child{border:none} .facts b{color:#fff}
+  .steps{counter-reset:s}
+  .steps .card::before{counter-increment:s;content:counter(s);display:inline-flex;width:34px;height:34px;border-radius:50%;background:var(--accent);color:#0f172a;font-weight:700;align-items:center;justify-content:center;margin-bottom:12px}
+  .contact{text-align:center}
+  .contact .card{max-width:600px;margin:0 auto}
+  .contact p{margin-bottom:6px}
+  footer{text-align:center;color:var(--muted);font-size:14px;padding:30px 0;border-top:1px solid #243049}
+  @media(max-width:720px){.about{grid-template-columns:1fr} nav ul{gap:14px;font-size:14px}}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <a class="logo" href="#">Pallavi<span style="color:var(--accent)">.</span></a>
+    <ul>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#process">Process</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <span class="tag">SEO &amp; Digital Marketing Specialist</span>
+    <h1>Get found on Google <span>and in AI search.</span></h1>
+    <p>I'm Pallavi Chaudhary. I help businesses grow their organic traffic, leads and online visibility with SEO, social media, paid ads and AI-search optimization.</p>
+    <a class="btn primary" href="#contact">Get a Free SEO Audit</a>
+    <a class="btn ghost" href="#services">View Services</a>
+  </div>
+</header>
+
+<section id="services">
+  <div class="wrap">
+    <h2>Services</h2>
+    <p class="sub">Everything you need to rank, get traffic and turn it into customers.</p>
+    <div class="grid">
+      <div class="card"><h3>SEO</h3><p>Keyword research, on-page optimization, technical SEO and link building to grow rankings and traffic.</p></div>
+      <div class="card"><h3>Local SEO / GMB</h3><p>Google Business Profile setup and optimization so nearby customers find and call you.</p></div>
+      <div class="card"><h3>AEO &amp; GEO</h3><p>Answer Engine and Generative Engine Optimization to get your brand cited in AI answers and AI rankings.</p></div>
+      <div class="card"><h3>Social Media Marketing</h3><p>SMM and SMO: content planning, posting and profile optimization that builds an engaged audience.</p></div>
+      <div class="card"><h3>PPC &amp; Meta Ads</h3><p>Google Ads and Facebook/Instagram campaigns built around leads and a clear return on spend.</p></div>
+      <div class="card"><h3>Cold Mailing</h3><p>Targeted outreach campaigns that start conversations with the right prospects.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap about">
+    <div>
+      <h2>About Me</h2>
+      <p class="sub">SEO Executive at SEO Discovery, Mohali.</p>
+      <p>I work on search visibility every day, from technical audits and content optimization to local listings and link building. I also use AI tools to speed up research and reporting, and I optimize sites for the new wave of AI search (AEO and GEO).</p>
+      <p>Before SEO, I worked in social media marketing, so I understand how organic search, social and paid ads work together to bring in customers.</p>
+    </div>
+    <ul class="facts">
+      <li><b>Role:</b> SEO Executive</li>
+      <li><b>Location:</b> Mohali, India</li>
+      <li><b>Focus:</b> SEO, AEO, GEO, Local SEO</li>
+      <li><b>Also:</b> SMM, PPC, Meta Ads</li>
+      <li><b>Work with:</b> Clients worldwide</li>
+    </ul>
+  </div>
+</section>
+
+<section id="process">
+  <div class="wrap">
+    <h2>How I Work</h2>
+    <p class="sub">A simple, clear process with no surprises.</p>
+    <div class="grid steps">
+      <div class="card"><h3>Audit</h3><p>I review your website, competitors and keywords to find the biggest opportunities.</p></div>
+      <div class="card"><h3>Strategy</h3><p>You get a clear plan with priorities, timelines and goals.</p></div>
+      <div class="card"><h3>Execute</h3><p>I carry out on-page, technical, content and link work step by step.</p></div>
+      <div class="card"><h3>Report</h3><p>Regular reports show rankings, traffic and leads so you see the results.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <h2>Let's Work Together</h2>
+    <p class="sub">Tell me about your website and goals. I'll reply with a free audit idea.</p>
+    <div class="card">
+      <p>Email: <a href="mailto:YOUR-EMAIL@example.com">YOUR-EMAIL@example.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/YOUR-PROFILE" target="_blank" rel="noopener">linkedin.com/in/YOUR-PROFILE</a></p>
+      <p>Upwork: <a href="https://www.upwork.com/freelancers/YOUR-PROFILE" target="_blank" rel="noopener">View my Upwork profile</a></p>
+      <br>
+      <a class="btn primary" href="mailto:YOUR-EMAIL@example.com">Send Me an Email</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">&copy; 2026 Pallavi Chaudhary. All rights reserved.</div>
+</footer>
+
+</body>
+</html>
